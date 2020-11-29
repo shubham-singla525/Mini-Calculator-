@@ -1,0 +1,42 @@
+body{
+background-color: azure;
+}
+
+.MyCal{
+    margin:0 auto;
+    height:350px;
+    width:350px;
+    background-color: rgb(24, 21, 21);
+    padding:5px;
+}
+.output{
+    line-height: 40px;
+    background-color: white;
+    height: 40px;
+    color:black;
+    margin-bottom:10px;
+    font-size:2em;
+    text-align:right;
+    font-family:monospace;
+    padding: 0 8px;
+}
+
+.btn{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(58, 104, 104);
+    text-align: center;
+    padding:7px;
+    margin:3x;
+    line-height:50px;
+    font-size: 1.5em;
+    cursor: pointer;
+    vertical-align:middle;
+    display:inline-block;
+    color:white;
+    border:1px solid black;
+}
+.row{
+    width: 100%;
+    display:block;
+}
